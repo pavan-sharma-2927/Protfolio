@@ -222,8 +222,9 @@ header nav a:hover{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: crimson;
     margin-bottom: 10px;
-
-
+}
+.heading:hover{
+    font-size: 22px;
 }
 .details{
     font-size: 16px;
@@ -657,6 +658,9 @@ footer{
         font-size: 10px;
 
     }
+    .heading{
+        font-weight: bolder;
+    }
 
     /* skill */
 
@@ -696,9 +700,9 @@ footer{
         height: 200px;
     }
     .projectFooderText{
-    font-size: 15px;
-    margin-top: 20px;
-    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 13px;
 
 }
     .projectBtn button{
@@ -742,7 +746,7 @@ footer{
     border-radius: 10px;
 }
     .competative button{
-        margin-left: 90px;
+        margin-left: 70px;
         margin-bottom: 20px;
     }
 
@@ -768,7 +772,7 @@ footer{
     /* contact */
 
     .contact-img{
-        margin-left: 0px;
+        margin-left: 30px;
         justify-content: center;
         flex-wrap: wrap;
     }

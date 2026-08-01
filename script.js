@@ -8,7 +8,7 @@ menuBtn.addEventListener("click", () => {
 });
 
 function funAlert(){
-    alert("Account is not Active.")
+    alert("Account is inactive.")
 }
 
 let navLinks = document.querySelectorAll("header nav a");
