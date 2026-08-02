@@ -145,27 +145,14 @@ header nav a:hover{
     transition: 0.5s;
    
 }
-.btnA{
-    background-color: navy ;
-}
-    .home-text button a{
-        color: white;
-        background-color: blue;
-        text-decoration: none;
-        padding: 10px;
-        border-radius: 10px;
-    }
+
 .home-text button:hover{
     color: rgb(219, 247, 247);
     background-color: rgb(131, 135, 25);
     box-shadow: 0px 0px 5px 2px rgb(131, 135, 25);
     border: 2px solid rgb(131, 135, 25);
 }
-.home-text button a:hover{
-    
-    background-color: rgb(131, 135, 25);
 
-}
     /* about */
 
 .about{
@@ -299,18 +286,11 @@ h3{
     border-bottom: 2px solid blue; 
   
 }
-.projectFooderText{
-    float: left;
-    margin-top: 6px;
-    font-size: 20px;
-    color:crimson;
-    margin-left: 30px;
-}
+
 
 .projectBtn button{
     width: 150px;
     height: 30px;
-    float: right;
     margin: 3px 5px 5px 20px;
       border:none ;
       outline: none;
@@ -616,11 +596,7 @@ footer{
         margin-left: 0px;
         margin-bottom: 50px;
     }
-    .cv {
-        width: 90%;
-        height: auto;
 
-    }
 
 
 
@@ -686,11 +662,11 @@ footer{
     }
     .project{
         width: 90%;
-        height: 315px;
+        height: 305px;
     }
     .project:hover{
-        width: 91%;
-        height: 320px;
+        width: 90%;
+        height: 305px;
     }
 
     h3{
@@ -706,9 +682,9 @@ footer{
 
 }
     .projectBtn button{
-    width: 90px;
-    height: 40px;
-    font-size: 12px;
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
 
 }
 
