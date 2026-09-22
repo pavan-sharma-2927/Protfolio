@@ -663,11 +663,11 @@ footer{
     }
     .project{
         width: 90%;
-        height: 310px;
+        height: auto;
     }
     .project:hover{
         width: 90%;
-        height: 310px;
+        height: auto;
     }
 
     h3{
