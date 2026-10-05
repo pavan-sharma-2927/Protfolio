@@ -7,10 +7,6 @@ menuBtn.addEventListener("click", () => {
     navbar.classList.toggle("show");
 });
 
-function funAlert(){
-    alert("Account is inactive.")
-}
-
 let navLinks = document.querySelectorAll("header nav a");
 let nav = document.querySelector("header nav");
 
